@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb965dca-043e-4459-adcc-c67ac504a9ce" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z86bDrtm6qFJP1jyXCQs0P8IAG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../hw2/hw2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="load_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hw1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/load_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.load_data" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb965dca-043e-4459-adcc-c67ac504a9ce" name="Default Changelist" comment="" />
+      <created>1584208442294</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584208442294</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2649" y="390" width="518" height="325" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1584461925059">
+      <screen x="0" y="27" width="3840" height="1053" />
+    </state>
+    <state x="2649" y="390" width="518" height="325" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.27.3840.1053@0.27.3840.1053" timestamp="1584461925059" />
+    <state x="3250" y="237" width="424" height="484" key="FileChooserDialogImpl" timestamp="1585317911092">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2659" y="235" width="501" height="513" key="FileChooserDialogImpl/0.27.3840.1053@0.27.3840.1053" timestamp="1584462195087" />
+    <state x="3250" y="213" width="374" height="527" key="FileChooserDialogImpl/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1584630449323" />
+    <state x="3250" y="237" width="424" height="484" key="FileChooserDialogImpl/1920.0.1920.1200/0.27.1920.1053@1920.0.1920.1200" timestamp="1585317911092" />
+    <state x="771" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1584208746098" />
+    <state width="1830" height="344" key="GridCell.Tab.0.bottom" timestamp="1584392251620">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="344" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1584392251620" />
+    <state width="1830" height="344" key="GridCell.Tab.0.center" timestamp="1584392251605">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="344" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1584392251605" />
+    <state width="1830" height="344" key="GridCell.Tab.0.left" timestamp="1584392251598">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="344" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1584392251598" />
+    <state width="1830" height="344" key="GridCell.Tab.0.right" timestamp="1584392251617">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="344" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1584392251617" />
+    <state width="1830" height="344" key="GridCell.Tab.1.bottom" timestamp="1584392251625">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="344" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1584392251625" />
+    <state width="1830" height="344" key="GridCell.Tab.1.center" timestamp="1584392251624">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="344" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1584392251624" />
+    <state width="1830" height="344" key="GridCell.Tab.1.left" timestamp="1584392251623">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="344" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1584392251623" />
+    <state width="1830" height="344" key="GridCell.Tab.1.right" timestamp="1584392251625">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="344" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1584392251625" />
+    <state x="2642" y="260" key="SettingsEditor" timestamp="1584462410073">
+      <screen x="0" y="27" width="3840" height="1053" />
+    </state>
+    <state x="2642" y="260" key="SettingsEditor/0.27.3840.1053@0.27.3840.1053" timestamp="1584462410073" />
+    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1584208749441" />
+    <state x="2523" y="362" key="com.intellij.ide.util.TipDialog" timestamp="1584630436582">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="603" y="380" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1584535929757" />
+    <state x="2523" y="362" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1584630436582" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1584427885086" />
+    <state x="2567" y="149" width="683" height="806" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584465585938">
+      <screen x="0" y="27" width="3840" height="1053" />
+    </state>
+    <state x="2567" y="149" width="683" height="806" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.3840.1053@0.27.3840.1053" timestamp="1584465585938" />
+    <state x="2576" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1584453837906">
+      <screen x="0" y="27" width="3840" height="1053" />
+    </state>
+    <state x="2576" y="257" width="672" height="678" key="search.everywhere.popup/0.27.3840.1053@0.27.3840.1053" timestamp="1584453837906" />
+  </component>
+</project>
